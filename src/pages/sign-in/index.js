@@ -116,14 +116,12 @@ const Page = () => {
                 href="/"
                 passHref
               >
-                <a>
-                  <Logo
-                    sx={{
-                      height: 42,
-                      width: 42
-                    }}
-                  />
-                </a>
+                <Logo
+                  sx={{
+                    height: 42,
+                    width: 42
+                  }}
+                />
               </NextLink>
             </Box>
             <Box
