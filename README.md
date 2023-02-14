@@ -1,6 +1,6 @@
 ## Bootstrapped from [material-kit-react](https://github.com/devias-io/material-kit-react)
 
-- [Licence](./LICENSE.md) MIT
+- Licensed under MIT (https://github.com/devias-io/react-material-dashboard/blob/master/LICENSE.md)
 
 ## Dependencies
 
@@ -28,7 +28,11 @@
 ## TODO
 
 1. Bootstrap Redux
-2. Implement a common map UI
+3. Discover hosting solution
+4. Implement an agreeable CI/CD toolchain
+5. Implement containerization
+6. Test deployment
+7. Implement a common Map UI
 
 ## File Structure
 
@@ -76,11 +80,3 @@ material-kit-react
 ## Reporting Issues:
 
 - [Github Issues Page](https://github.com/devias-io/react-material-dashboard/issues?ref=devias-io)
-
-## License
-
-- Licensed under MIT (https://github.com/devias-io/react-material-dashboard/blob/master/LICENSE.md)
-
-## Contact Us
-
-- Email Us: support@deviasio.zendesk.com
